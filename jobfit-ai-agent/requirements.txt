@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+langgraph
+faiss-cpu
+sentence-transformers
+PyMuPDF
+beautifulsoup4
+requests
+tf-keras
