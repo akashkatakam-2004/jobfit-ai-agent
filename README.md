@@ -1,7 +1,6 @@
 # 🤖 JobFit AI Agent
 
-An AI-powered resume analyzer that matches your resume against job descriptions 
-and gives intelligent feedback using LangGraph, Groq & FAISS.
+An AI-powered resume analyzer that matches your resume against job descriptions and gives intelligent feedback using LangGraph, Groq & FAISS.
 
 ---
 
@@ -58,3 +57,17 @@ uvicorn main:app --reload
 ---
 
 ## 📁 Project Structure
+```
+jobfit-ai-agent/
+├── main.py
+├── agent/
+├── vector_store/
+├── requirements.txt
+├── Dockerfile
+└── README.md
+```
+
+---
+
+## 📜 License
+MIT License
